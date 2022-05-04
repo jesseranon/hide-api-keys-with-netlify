@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "axios": "^0.27.2",
+    "netlify-cli": "^10.2.0"
+  },
+  "scripts": {
+    "debug": "netlify dev --inspect"
+  }
+}
